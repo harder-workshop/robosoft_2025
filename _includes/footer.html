@@ -1,14 +1,14 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <div class="footer-col-wrapper" >
-    <div class="footer-nav">
-        {% for lesson in site.pages %}
-          {% if lesson.nav == true %}
-          <a class="page-link{% if page.url == lesson.url %} active{% endif %}" href="{{ lesson.url | relative_url }}">{{ lesson.title | escape }}</a>
-          {% endif %}
-        {% endfor %}
+    <h5 style="text-align: center;">With Support From</h5>
+    <div style="display: flex; justify-content: center;">
+    <table>
+      <tr>
+          <td><img src="./images/TRINA_logo.png" alt="TRINA_logo" style="width: 100%; height: auto;"></td>
+          <td><img src="./images/IEEE_RAS.png" alt="IEEE_RAS_logo" style="width: 50%; height: auto;"></td>
+      </tr>
+    </table>
     </div>
-    </div>
-      <h5 class="footer-heading"><a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a> <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> </h5> 
+    <h5 class="footer-heading"><a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a> <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> </h5> 
   </div>
 </footer>
