@@ -14,3 +14,4 @@ nav: true
 | ![Cem](./images/cem.jpg) | Cem Aygül           | Tufts University                              |
 | ![Josie](./images/josie.jpg) | Josie Hughes        | EPFL                                          |
 | ![Max](./images/max.jpg) | Max Polzin          | EPFL                                          |
+| ![Yuyang](./images/yuyang.jpg) | Yuyang Song          | Toyota Research Institue North America                                          |

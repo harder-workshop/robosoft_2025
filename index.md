@@ -42,6 +42,11 @@ title: Home
   typeLine();
 </script>
 
-# Abstract
+
+## Abstract
 
 Soft robotics, due to their adaptable materials and unique morphologies, promise novel capabilities for field applications. This workshop, inspired by the RoboSoft 2024 keynote, will focus on leveraging soft robotics for real-world challenges in humanitarian aid, disaster relief, environmental monitoring, and exploration. The HARDER workshop will pair academic researchers with field practitioners to explore these applications.
+
+**Location:** Lausanne, Switzerland  
+**Date:** April 23, 2025  
+**Duration:** Full Day

@@ -5,4 +5,15 @@ nav: true
 
 # Contributing
 
-Coming soon! Check back in January for further details!
+Submission instruction will be posted soon. Check back in January for further details!
+
+## Topics of Interest
+- Humanitarian assistance & demining
+- Rescue robotics
+- Exploration of extreme environments (underwater, space, hazardous)
+- Environmental sensing
+- Field applications of soft robotics
+- Untethered and full encapsulated systems
+- Inspection of critical infrastructure
+- Resilient operations
+- Performance evaluation and benchmarking
