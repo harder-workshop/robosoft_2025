@@ -17,3 +17,7 @@ Submission instruction will be posted soon. Check back in January for further de
 - Inspection of critical infrastructure
 - Resilient operations
 - Performance evaluation and benchmarking
+
+## Accepted Posters
+
+Posters will be archived online for reference for future reference to the research community!
