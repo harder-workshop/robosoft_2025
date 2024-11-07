@@ -20,4 +20,4 @@ Submission instruction will be posted soon. Check back in January for further de
 
 ## Accepted Posters
 
-Posters will be archived online for reference for future reference to the research community!
+Posters will be posted online for future researchers to reference!
