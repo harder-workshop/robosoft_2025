@@ -45,7 +45,7 @@ title: Home
 
 ## Abstract
 
-Soft robots, with their adaptable materials and unique morphologies, promise novel capabilities for field applications. This workshop, inspired by the RoboSoft 2024 keynote, will focus on leveraging soft robotics for real-world challenges in humanitarian assistance, disaster relief, environmental monitoring, and exploration (HARDER). The HARDER workshop will pair academic researchers with field practitioners to explore exciting applications and unmet needs in purposeful, inter-disciplinary conversations.
+Soft robots, with their adaptable materials and unique morphologies, promise novel capabilities for field applications. This workshop, inspired by the RoboSoft 2024 keynote, will focus on leveraging soft robotics for real-world challenges in humanitarian assistance, reconnaissance, disasters, exploration, and recovery (HARDER). The HARDER workshop will pair academic researchers with field practitioners to explore exciting applications and unmet needs in purposeful, inter-disciplinary conversations.
 
 > "It takes a soft robot to solve HARD problems"
 
