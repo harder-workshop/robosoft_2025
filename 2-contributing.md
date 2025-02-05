@@ -7,7 +7,7 @@ nav: true
 
 We are pleased to offer three different ways for participants to present their work at our workshop, accommodating a range of presentation styles and formats. All submissions will be reviewed for scientific mertic and alignment with the conference themes.
 
-1. **Poster Presentation:** We invite researchers to submit a **1-2 page abstract** (excluding references) outlining their work. Submissions will be reviewed, and accepted participants will be required to prepare a **poster presentation** using the designated template provided in the link below. This option is ideal for those who wish to share their research findings, methodologies, and results in a structured, visual format.
+1. **Poster Presentation:** We invite researchers to submit a **1-2 page abstract** (excluding references) outlining their work. Submissions will be reviewed, and accepted participants will be required to prepare a **poster presentation** using the designated [template](https://drive.google.com/file/d/1hfKqWvZseu5sZOgMloZyGa04QGdflt4v/view?usp=sharing). This option is ideal for those who wish to share their research findings, methodologies, and results in a structured, visual format.
 
 2. **Poster + Demonstration:** For those interested in complementing their poster with a hands-on demonstration, we encourage the submission of a **1-2 page abstract** along with a **short video** showcasing their work. The video may include **experimental results, system operations, and simulations,** providing additional insights into the research. Accepted participants will present both a **live demonstration** and a **poster**, allowing for a more interactive engagement with the audience.
 
