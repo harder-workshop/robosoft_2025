@@ -19,7 +19,26 @@ We are pleased to offer three different ways for participants to present their w
 - The review process is single-blind.
 - Submission and review for conference alignment will be handled through the Microsoft Conference Management Toolkit.
 
-*The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
+<p class="footnote">
+  <i>The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft, and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</i>
+</p>
+
+<style>
+.footnote {
+  font-size: 0.75em; /* Adjusts to footnote size */
+  color: #555; /* Slightly muted color */
+  text-align: justify;
+}
+
+.footnote a {
+  color: #0073e6; /* Ensures the link is visible */
+  text-decoration: none;
+}
+
+.footnote a:hover {
+  text-decoration: underline;
+}
+</style>
 
 ## Key Dates
 
