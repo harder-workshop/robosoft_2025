@@ -52,3 +52,24 @@ Soft robots, with their adaptable materials and unique morphologies, promise nov
 **Location:** Lausanne, Switzerland  
 **Date:** April 23, 2025  
 **Duration:** Full Day
+
+<div style="text-align: center;">
+  <a href="./2-contributing.html" class="button">Submit Your Work!</a>
+</div>
+
+<style>
+.button {
+  display: inline-block;
+  padding: 15px 30px;
+  font-size: 24px;
+  color: white;
+  background-color: #d42525;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+
+.button:hover {
+  background-color: #ff95a1;
+}
+</style>
