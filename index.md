@@ -72,4 +72,11 @@ Soft robots, with their adaptable materials and unique morphologies, promise nov
 .button:hover {
   background-color: #ff95a1;
 }
+
+.button:visited,
+.button:active,
+.button:focus {
+  color: white !important;
+  text-decoration: none;
+}
 </style>
