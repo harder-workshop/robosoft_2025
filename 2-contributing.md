@@ -13,9 +13,13 @@ We are pleased to offer three different ways for participants to present their w
 
 3. **Demonstration Only:** If you prefer to focus solely on a live demonstration without a poster presentation, we welcome submissions in the form of a brief **video** highlighting key aspects of your work. The video may feature **experiments, system functionality, or simulations,** effectively communicating the significance of your research. Accepted participants will be given the opportunity to showcase their work through a **live demonstration** at the workshop.
 
-## Submission Link
+## Submission Details
 
-Submission and review for conference alignment will be handled through the Microsoft Conference Management Toolkit. Link will be added shortly.
+- For paper submissions, please follow the [IEEE RAS template](http://ras.papercept.net/conferences/support/files/ieeeconf.zip).
+- The review process is single-blind.
+- Submission and review for conference alignment will be handled through the Microsoft Conference Management Toolkit.
+
+*The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
 
 ## Key Dates
 
