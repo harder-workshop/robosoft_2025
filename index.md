@@ -11,11 +11,13 @@ title: Home
 
 <script>
   const lines = [
-    "Humanitarian Assistance",
-    "Reconnaissance",
-    "Disasters",
-    "Exploration",
-    "Recovery"
+    "Humanitarian Assistance ",
+    "Reconnaissance ",
+    "Disasters ",
+    "Exploration ",
+    "Recovery ",
+    "",
+    "HARD Problems ",
   ];
   let lineIndex = 0;
   let charIndex = 0;
@@ -24,7 +26,7 @@ title: Home
 
   function typeLine() {
     const lineElement = document.getElementById("line");
-    lineElement.innerHTML = `${lines[lineIndex].slice(0, charIndex + 1)}`;
+    lineElement.innerHTML = `${lines[lineIndex].slice(0, charIndex + 1)}&nbsp;`;
 
     if (charIndex < lines[lineIndex].length) {
       charIndex++;
