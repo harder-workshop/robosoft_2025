@@ -5,7 +5,7 @@ nav: true
 
 # Contributing
 
-We are pleased to offer two different ways for participants to present their work at our workshop, accommodating a range of presentation styles and formats. All submissions will be reviewed for scientific mertic and alignment with the conference themes.
+We are pleased to offer two different ways for participants to present their work at our workshop, accommodating a range of presentation styles and formats. All submissions will be reviewed for scientific merit and alignment with the conference themes.
 
 1. **Poster Presentation:** We invite researchers to submit a **1-2 page abstract** (including references) outlining their work. Submissions will be reviewed, and accepted participants will be required to prepare a **poster presentation** using the designated template. This option is ideal for those who wish to share their research findings, methodologies, and results in a structured, visual format.
 
