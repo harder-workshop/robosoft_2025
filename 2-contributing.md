@@ -14,7 +14,7 @@ We are pleased to offer two different ways for participants to present their wor
 ## Submission Details
 
 - For poster only submissions, please follow the [IEEE RAS template](http://ras.papercept.net/conferences/support/files/ieeeconf.zip).
-- For demo submissions, please upload your abstract and then your video as supplementary material. Video files should be no longer than 2 minutes, up to 50 mb, and in .mp4 format.
+- For demo submissions, please upload your abstract and then your video as supplementary material. Video files should be no longer than 2 minutes, up to 50 mb, and in .mp4 format. The option for supplementary material will appear in the author console after submitting the abstract.
 - The review process is single-blind.
 - Submission and review for conference alignment will be handled through the Microsoft Conference Management Toolkit.
 
