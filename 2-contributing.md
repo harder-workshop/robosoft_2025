@@ -61,7 +61,7 @@ We are pleased to offer two different ways for participants to present their wor
 - Exploration of extreme environments (underwater, space, hazardous)
 - Environmental sensing
 - Field applications of soft robotics
-- Untethered and full encapsulated systems
+- Untethered and fully encapsulated systems
 - Inspection of critical infrastructure
 - Resilient operations
 - Performance evaluation and benchmarking
