@@ -57,6 +57,8 @@ Soft robots, with their adaptable materials and unique morphologies, promise nov
 
 <div style="text-align: center;">
   <a href="./2-contributing.html" class="button">Submit Your Work!</a>
+  <a href="https://web.cvent.com/event/a4d97fd0-fa93-4129-bb7b-81c7eb9987bc/summary" class="button">Register</a>
+  <a href="https://forms.gle/3dRso1c3vBp9bHTt6" class="button">Get Updates</a>
 </div>
 
 <style>
