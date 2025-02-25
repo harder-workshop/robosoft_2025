@@ -19,4 +19,4 @@ Confirmed speakers are listed below. Additional speakers and organizations will 
 |![Hannah](./images/Hannah-Stuart-Circle.png)| Hannah Stuart             | UC Berkeley (USA)             | TBD  |
 |![Paul](./images/Paul_Glick-circle.png)| Paul Glick                | NASA/JPL (USA)                | TBD  |
 |![Rebecca](./images/rebecca-circle.png)| Rebecca Kramer-Bottiglio  | Yale (USA)                    | Confirmed, TBD  |
-|![Elena](./images/elena-circle.png)| Elena McCarthy            | ONR (UK)                      | Confirmed, TBD  |
+|![Elena](./images/elena-circle.png)| Elena McCarthy            | ONR (UK)                      | Towards a New Generation of Soft Ocean Sensors |
