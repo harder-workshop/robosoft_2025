@@ -51,8 +51,8 @@ We are pleased to offer two different ways for participants to present their wor
 *All submission deadlines are at 23:59:59 PDT*
 
 - Feb 10: Submission portal opens
-- March 10: Submission portal closes
-- March 20: Decision notifications sent
+- April 10: Submission portal closes
+- April 15: Decision notifications sent
 - April 23: HARDER Workshop!
 
 ## Topics of Interest
