@@ -17,9 +17,9 @@ The HARDER workshop features sessions combining presentations and panel discussi
 | 11:30 am-12:00 pm | Poster and demo session                       | Posters & Demos           |
 | 12:00-1:00 pm     | Talks and panel discussion                    | Environmental Monitoring  |
 | 1:00-2:00 pm      | Lunch                                         |                           |
-| 2:00-2:30 pm      | Keynote Address                               | Disaster Robotics         |
+| 2:00-2:30 pm      | Keynote address                               | Disaster Robotics         |
 | 2:30-3:30 pm      | Talks and panel discussion                    | Search & Rescue           |
-| 3:30-4:00 pm      | Afternoon Snack Break                         |                           |
+| 3:30-4:00 pm      | Afternoon snack break                         |                           |
 | 4:00-5:00 pm      | Talks and panel discussion                    | Underwater Exploration    |
 | 5:00-5:45 pm      | Round table discussion                        | All-Day Themes            |
 | 5:45-6:00 pm      | Concluding remarks and awards                 |                           |
