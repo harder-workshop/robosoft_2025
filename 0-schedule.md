@@ -8,20 +8,18 @@ nav: true
 ## Workshop Structure
 The HARDER workshop features sessions combining presentations and panel discussions between academic and industry leaders. The structure facilitates networking, knowledge sharing, and collaboration among researchers and real-world stakeholders.
 
-## Preliminary Schedule
-
-<mark><i>Schedule is preliminary and subject to change as speakers are confirmed.</i></mark>
-
 | Time              | Description                                   | Topic                     |
 |-------------------|-----------------------------------------------|---------------------------|
-| 8:30-9:00 am      | Workshop introduction, objectives, and format | Welcome                   |
-| 9:00-10:00 am     | Talks and panel discussion                   | Search and Rescue         |
-| 10:00-10:30 am    | Poster and demo blitz                        | Poster Blitz              |
-| 10:30-11:30 am    | Poster presentations                         | Coffee Break & Posters    |
-| 11:30 am-12:30 pm | Talks and panel discussion                   | Environmental Monitoring  |
-| 12:30-2:00 pm     | Lunch                                        | Lunch                     |
-| 2:00-3:00 pm      | Talks and panel discussion                   | Space Exploration         |
-| 3:00-3:30 pm      | Afternoon snack break                        |                           |
-| 3:30-4:30 pm      | Talks and panel discussion                   | Underwater Exploration    |
-| 4:30-5:00 pm      | Round-table discussion                       |                           |
-| 5:00-5:30 pm      | Final panel with all speakers                | Closing Remarks 
+| 9:00-9:30 am      | Workshop introduction, objectives, and format | Welcome                   |
+| 9:30-10:30 am     | Talks and panel discussion                    | Space Exploration         |
+| 10:30-11:00 am    | Poster and demo blitz                         | Poster Blitz              |
+| 11:00-11:30 am    | Poster presentations                          | Coffee Break & Posters    |
+| 11:30 am-12:00 pm | Poster and demo session                       | Posters & Demos           |
+| 12:00-1:00 pm     | Talks and panel discussion                    | Environmental Monitoring  |
+| 1:00-2:00 pm      | Lunch                                         |                           |
+| 2:00-2:30 pm      | Keynote Address                               | Disaster Robotics         |
+| 2:30-3:30 pm      | Talks and panel discussion                    | Search & Rescue           |
+| 3:30-4:00 pm      | Afternoon Snack Break                         |                           |
+| 4:00-5:00 pm      | Talks and panel discussion                    | Underwater Exploration    |
+| 5:00-5:45 pm      | Round table discussion                        | All-Day Themes            |
+| 5:45-6:00 pm      | Concluding remarks and awards                 |                           |
