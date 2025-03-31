@@ -70,7 +70,7 @@ We are pleased to offer two different ways for participants to present their wor
 
 Posters will be posted online for future researchers to reference! Posters should use the following template [Adobe Illustrator](https://drive.google.com/file/d/11GiLXmSUbyQJZmtaic-X38Gtbfe8aT4r/view?usp=sharing) and [PowerPoint](https://docs.google.com/presentation/d/16zIEQakUeFcQu-LW7_O3i4SD3WojrLgp/edit?usp=sharing&ouid=106091177615694516459&rtpof=true&sd=true) files available.
 
-Demos will be provided with a table and standard Swiss power outlet. Please contact the [organizers](mailto:nhanson2@mit.edu) if you have specific needs to support your demo. We will strive to accomodate all reasonable requests.
+Demos will be provided with a table and standard Swiss power outlet. Please contact the [organizers](mailto:nhanson2@mit.edu) if you have specific needs to support your demo. We will strive to accommodate all reasonable requests.
 
 <p class="footnote">
   <i>The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft, and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</i>
