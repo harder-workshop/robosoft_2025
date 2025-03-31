@@ -14,4 +14,4 @@ nav: true
 | ![Cem](./images/cem_round.jpg) | [Cem Aygül](https://www.linkedin.com/in/cemaygul)           | Tufts University                              |
 | ![Josie](./images/josie_round.jpg) | [Josie Hughes](https://people.epfl.ch/josie.hughes)        | EPFL                                          |
 | ![Max](./images/max_round.jpg) | [Max Polzin](https://people.epfl.ch/max.polzin)          | EPFL                                          |
-| ![Yuyang](./images/yuyang_round.jpg) | [Yuyang Song](https://scholar.google.com/citations?hl=en&user=bQ93Y4MAAAAJ)          | Toyota Research Institue North America                                          |
+| ![Yuyang](./images/yuyang_round.jpg) | [Yuyang Song](https://scholar.google.com/citations?hl=en&user=bQ93Y4MAAAAJ)          | Toyota Research Institute North America                                          |

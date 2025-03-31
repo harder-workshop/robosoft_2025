@@ -11,7 +11,7 @@ Confirmed speakers are listed below. Additional speakers and organizations will 
 
 || Name                      | Affiliation                    | Talk Title |
 ||---------------------------|-------------------------------|------------|
-|![Robin](./images/robin_murphy-circle.png)| Robin Murphy              | Texas A&M (USA)               | Confirmed, TBD |
+|![Robin](./images/robin_murphy-circle.png)| Robin Murphy              | Texas A&M (USA)               | Disasters from the Inside |
 |![Kaushik](./images/kaushik_jayaram-circle.png) | Kaushik Jayaram                       | University of Colorado, Boulder (USA)      | Effective Omnidirectional Confined Space Locomotion with Shapeshifting Insect-Scale Robots  |
 |![Alex](./images/alex_kubler-circle.png)| Alex Kübler               | RoBoa (Switzerland)           | Testing RoBoa for Search & Rescue Missions with the Swiss Rescue Troops |
 |![Mirko](./images/mirko-circle.png)| Mirko Kovac               | EMPA + EPFL (Switzerland)         | Sustainability Robotics: Multi-modal Drones for Environmental Sensing in Air and Water  |
