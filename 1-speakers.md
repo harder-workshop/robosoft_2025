@@ -18,5 +18,5 @@ Confirmed speakers are listed below. Additional speakers and organizations will 
 |![Ian](./images/Ian-Delaney-circle.png)| Ian Delaney               | U. Lausanne (Switzerland)     | Pressing Glaciological Questions that Soft Robots Could Help Answer  |
 |![Jungpyo](./images/Jungpyo_Lee_circle.png)| Jungpyo Lee             | UC Berkeley (USA)             | Grappling with the Environment: Design of Forceful Mobile Robots for Uncertain Planetary Surfaces  |
 |![Paul](./images/Paul_Glick-circle.png)| Paul Glick                | NASA/JPL (USA)                | Infusion Pathways for New Technology in Space Exploration  |
-|![Rebecca](./images/rebecca-circle.png)| Rebecca Kramer-Bottiglio  | Yale (USA)                    | Confirmed, TBD  |
+|![Rebecca](./images/rebecca-circle.png)| Rebecca Kramer-Bottiglio  | Yale (USA)                    | Development of Turtle-Inspired Underwater Robot with Morphing Limbs  |
 |![Elena](./images/elena-circle.png)| Elena McCarthy            | ONR (UK)                      | Towards a New Generation of Soft Ocean Sensors |
